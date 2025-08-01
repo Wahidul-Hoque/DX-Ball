@@ -1,6 +1,6 @@
 # DX-Ball
 
-DX-Ball is a classic 2D brick-breaking arcade game developed as a CSE 102 Level-1 Term-1 project. The main objective is to break all the bricks in each level using a ball while controlling a paddle. The game is built with the iGraphics library in C/C++.
+DX-Ball is a classic 2D brick-breaking arcade game developed as a CSE 102 Level-1 Term-1 project. The main objective is to break all the bricks in each level using a ball while controlling a paddle. The game is built with the iGraphics library in C.
 
 ## Features
 
@@ -14,7 +14,7 @@ DX-Ball is a classic 2D brick-breaking arcade game developed as a CSE 102 Level-
 
 ### Prerequisites
 
-- **C/C++ Compiler:** GCC, MinGW, or any compatible C/C++ compiler.
+- **C/C++ Compiler:** GCC, MinGW, or any compatible C compiler.
 - **iGraphics Library:** [iGraphics](https://github.com/monzurulkader/igraphics) must be installed and configured.
   
 ### Installation
